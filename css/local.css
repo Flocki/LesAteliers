@@ -1,0 +1,5 @@
+.month { display: block;  /*color: #FFF;*/  }
+
+.day { font-size: 36px; /*color: #FFF;*/ margin: 10px 0 15px 0; }
+
+.year { background: url("../images/post-meta-divider.png") top repeat-x; /*color: #FFF;*/ padding: 10px 0 0 0; }
